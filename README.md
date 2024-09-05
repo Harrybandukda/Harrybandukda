@@ -12,7 +12,7 @@ I'm passionate about programming and constantly exploring the realms of Python, 
 
 <h2> 🌐 Connect with Me </h2>
 LinkedIn: Harry Bandukda </br>
-Twitter: @harrybandukda
+Twitter: @harrybandukda </br>
 Portfolio: https://harrybandukda.github.io/
 
 <h2> 🤝 Contributions </h2>

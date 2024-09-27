@@ -1,24 +1,143 @@
-<h1>Hello, I'm Harry Bandukda! 👋 </h1>
-I'm passionate about programming and constantly exploring the realms of Python, C#, and C++. Currently, I'm diving into the exciting world of Game Development with Unity & Unreal. 🌱
+<div align="center">
 
-<h2> 🔧 Technologies & Tools </h2>
-<strong>Python:</strong> My go-to language for versatile and efficient scripting.</br>
-<strong>C#:</strong> Crafting robust and scalable applications.</br>
-<strong>C++:</strong>  Exploring the power and performance it brings to the table.</br>
-<strong>Rust</strong>  Embracing a new paradigm in system-level programming.</br>
+# Hello, I'm [Harry Bandukda](https://harrybandukda.github.io)! 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<br>
 
-<h2> 🌐 Connect with Me </h2>
-LinkedIn: Harry Bandukda </br>
-Twitter: @harrybandukda </br>
-Portfolio: https://harrybandukda.github.io/
+[English](README.md) | [Français](README_FR.md) | [العربية](README_AR.md) | [Español](README_ES.md)
 
-<h2> 🤝 Contributions </h2>
-I'm open to collaborations and always eager to contribute to exciting projects. If you have an interesting project or looking for a collaborator, feel free to reach out.
+<br>
 
-<!---
-Harrybandukda/Harrybandukda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=00F7E7&center=true&vCenter=true&width=435&lines=Game+Tester;Game+Creater;Front+End)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+## 🌟 Welcome to My Digital Dojo! 🌟
+
+</div>
+
+I'm Harry, a game dev virtuoso and bug-hunting legend on a quest to create and perfect digital games that'll transport you to new dimensions! 🚀 When I'm not wielding my debugging katana 🗡️ or crafting epic gameplay, you'll find me leveling up my front end skills.
+
+<div align="center">
+
+### 🎭 The Chronicles of Harry: A Tester's Epic
+
+<details>
+<summary>🔮 Unroll the scrolls of my legendary journey!</summary>
+
+In a time when simple 8-bit graphics and slow dial-up internet were common, young Harry began his journey with a basic programming task: writing "Hello, World!" 
+
+This simple task unknowingly set him on a path to becoming an expert in the world of digital technology. Over the years, Harry fought off numerous software bugs and designed complex video game systems, and his achievements became legendary.
+
+</details>
+
+</div>
+
+<div align="center">
+
+## 🛠️ Arsenal of Digital Mastery
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine 5"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## 🏆 Legendary Quests & Epic Conquests
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://harrybandukda.github.io/secret.html" target="_blank">
+        <img src="https://img.shields.io/badge/-$100%20Puzzle%20Challenge-FF6B6B?style=for-the-badge&logo=puzzle&logoColor=white" alt="$100 Puzzle Challenge">
+      </a>
+      <br>
+      A mind-bending series of challenges that will test your patience and decoding skills. Winner gets $100! 🧠💰
+      <br>
+      <sub><sup>🛠️ React | Next.js | HTML | CSS</sup></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Deploy-4CAF50?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Deploy">
+      <br>
+      An extraction shooter game currently in its first development phase. Prepare for intense tactical gameplay! 🔫
+      <br>
+      <sub><sup>🛠️ Unreal Engine 5 | C++ | Python | Java</sup></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.playdeltaforce.com/en/" target="_blank">
+        <img src="https://img.shields.io/badge/-Delta%20Force%20Game%20Tester-FF9800?style=for-the-badge&logo=bug&logoColor=white" alt="Delta Force Game Tester">
+      </a>
+      <br>
+      Rigorously tested this extraction shooter in its final development phase. Unleashed my bug-hunting prowess to ensure a flawless gaming experience. 🕵️‍♂️🎮
+      <br>
+      <sub><sup>🛠️ Advanced Playtesting | Regression Testing | Performance Analysis</sup></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.playerresearch.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Game%20Tester%20Extraordinaire-9C27B0?style=for-the-badge&logo=gamepad&logoColor=white" alt="Game Tester at Player Research Montreal">
+      </a>
+      <br>
+      Over a decade of relentless game testing! Uncovered thousands of bugs, glitches, and errors across countless titles. 🏆🔍
+      <br>
+      <sub><sup>🛠️ Usability Testing | Heuristic Evaluation | A/B Testing | Player Psychology Analysis</sup></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## 📊 Skill Tree Mastery
+
+<img src="https://github-readme-stats.vercel.app/api?username=harrybandukda&show_icons=true&theme=radical" alt="Harry's GitHub stats">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harrybandukda&theme=radical" alt="Harry's GitHub streak">
+
+</div>
+
+<div align="center">
+
+## 🌐 Join My Elite Squad!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-bandukda)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harrybandukda)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://harrybandukda.github.io)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/harrybandukda)
+
+</div>
+
+<div align="center">
+
+---
+
+### 💡 "In the realm of game testing, every bug squashed is a victory for players worldwide." 💡
+
+![Visitor Count](https://profile-counter.glitch.me/harrybandukda/count.svg)
+
+</div>
+
+<div align="center">
+
+## 🏆 Achievement Unlocked: Profile Viewed!
+
+Thanks for exploring my digital realm. May your code be bug-free and your games be legend(wait-for-it)dary! 🚀🎮
+
+</div>

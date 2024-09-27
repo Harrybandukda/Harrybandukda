@@ -107,8 +107,6 @@ This simple task unknowingly set him on a path to becoming an expert in the worl
 
 ## 📊 Skill Tree Mastery
 
-<img src="https://github-readme-stats.vercel.app/api?username=harrybandukda&show_icons=true&theme=radical" alt="Harry's GitHub stats">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrybandukda&theme=radical" alt="Harry's GitHub streak">
 
 </div>

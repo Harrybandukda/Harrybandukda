@@ -107,7 +107,6 @@
 
 ## 📊 شجرة المهارات
 
-<img src="https://github-readme-stats.vercel.app/api?username=harrybandukda&show_icons=true&theme=radical" alt="إحصائيات جيت هاب هاري">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrybandukda&theme=radical" alt="سلسلة جيت هاب هاري">
 

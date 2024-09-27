@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=00F7E7&center=true&vCenter=true&width=435&lines=Game+Tester;Game+Creater;Front+End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=00F7E7&center=true&vCenter=true&width=435&lines=Game+Tester;Game+Dev;Front+End)](https://git.io/typing-svg)
 
 </div>
 

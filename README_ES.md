@@ -107,8 +107,6 @@ Esta simple tarea lo encaminó sin saberlo a convertirse en un experto en el mun
 
 ## 📊 Dominio del Árbol de Habilidades
 
-<img src="https://github-readme-stats.vercel.app/api?username=harrybandukda&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Harry">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrybandukda&theme=radical" alt="Racha de GitHub de Harry">
 
 </div>

@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=00F7E7&center=true&vCenter=true&width=435&lines=Front+End;Full+Stack+Dev)](https://git.io/typing-svg)
 
-[English](README.md) | [Français](README_FR.md) | [العربية](README_AR.md) | [Español](README_ES.md)
+[English](README.md) | [Français](README_FR.md) 
 
 ---
 

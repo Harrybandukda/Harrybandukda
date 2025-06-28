@@ -30,12 +30,6 @@
 
 ## 🏆 Projects & Experience
 
-<div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h3 style="color: #fff; font-size: 24px; margin-bottom: 10px;">🧠 Mind-Boggling Challenge</h3>
-  <p style="color: #fff; font-size: 16px;">A cryptic puzzle experience built to showcase my creativity and front-end skills.</p>
-  <p style="color: #fff;"><strong>Tech Stack:</strong> React | Next.js | HTML | CSS</p>
-  <a href="https://harrybandukda.github.io/secret.html" style="display: inline-block; background-color: #fff; color: #FF6B6B; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px;">Take the Challenge</a>
-</div>
 
 <div style="background: linear-gradient(45deg, #6B5B95, #9B59B6); padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h3 style="color: #fff; font-size: 24px;">🎮 Occasional Game Tester at Player Research Montreal</h3>
